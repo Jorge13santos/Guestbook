@@ -10,4 +10,4 @@
    para expor o serviço em um endereço IP externo.
    
    Caso sua aplicações comece ser requisitada e voce precisar scalonar mais pods.
-     # kubectl scale deployment frontend --replicas=4
+  # kubectl scale deployment frontend --replicas=4
